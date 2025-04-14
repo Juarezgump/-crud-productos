@@ -7,7 +7,7 @@ include_once '../templates/header.php';
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <div class="card shadow">
-                    <div class="card-header bg-success text-white">
+                    <div class="card-header bg-info text-white">
                         <h2 class="text-center mb-0">REGISTRO DE PRODUCTOS</h2>
                     </div>
                     <div class="card-body">
@@ -52,7 +52,7 @@ include_once '../templates/header.php';
                             
                             <div class="row mt-4">
                                 <div class="col-md-6 mb-2">
-                                    <button type="submit" class="btn btn-success w-100">
+                                    <button type="submit" class="btn btn-info text-white w-100">
                                         Registrar Producto
                                     </button>
                                 </div>
